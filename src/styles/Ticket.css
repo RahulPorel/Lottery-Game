@@ -1,0 +1,13 @@
+.Ticket {
+  border: 1px solid rgb(230, 222, 222);
+  border-radius: 22px;
+  margin-bottom: 15px;
+  display: flex;
+
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ticketNo {
+  margin-right: 15px;
+}
