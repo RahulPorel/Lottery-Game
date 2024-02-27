@@ -29,7 +29,7 @@ export default function Lottery({
     <div>
       <h1>Lottery Game!</h1>
       <p>
-        Game Rule: Your Winning Createria is based on Lottery no which if we
+        Game Rule: Your Winning Criteria is based on Lottery no which if we
         total all 3 no value we should get no :- 15
       </p>
 
